@@ -1,6 +1,6 @@
 Vous trouverez dans ce dossier un fichier html. intitulé L3_Econ_interro_code.
 
-Téléchargez le fichier html et ouvrez le dans le logiciel Rstudio.
+Téléchargez le fichier html et ouvrez le.
 
 L'interrogation durera 45min pendant laquelle vous n'avez le droit qu'à Rstudio, aucune note papier ou d'autre format numérique n'est autorisée.
 
